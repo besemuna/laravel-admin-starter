@@ -14,6 +14,11 @@ Here's is what is included in this small package 😊
 Basically a friendly startup theme to use when ever you have any laravel vuejs dashboard
 application in mind.
 
+## Here Is a Picture
+
+![Screenshot]("./screenshots/1.png")
+
+
 ## Security Vulnerabilities
 
 If you discover any vulnerabilities in this repo, please send me an email at [besemuna@gmail.com](mailto:besemuna@gmail.com). Thank You
