@@ -16,7 +16,7 @@ application in mind.
 
 ## Here Is a Picture
 
-![Screenshot]("./screenshots/1.png")
+![Screenshot](screenshots/1.png)
 
 
 ## Security Vulnerabilities
